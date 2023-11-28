@@ -331,7 +331,7 @@ appFromExternalRepo:
       pullSecrets: []
     ## @param appFromExternalRepo.clone.repository Git repository to clone
     ##
-    repository: https://github.com/MicrosoftDocs/mslearn-aks.git
+    repository: https://github.com/marcosgm/mslearn-aks.git
     ## @param appFromExternalRepo.clone.revision Git revision to checkout
     ##
     revision: main
